@@ -1,6 +1,8 @@
-# Hi 👋, I'm Syahelma Fithri
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:3B82F6&height=220&section=header&text=Hi%20👋,%20I'm%20Syahelma%20Fithri&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
 
-### Information Systems Student | Aspiring Web Developer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Information+Systems+Student;Aspiring+Web+Developer;Belajar+Web+Dev+%26+UI%2FUX+Design;Terus+Berkembang+Setiap+Hari" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -10,19 +12,23 @@ Halo! Saya **Syahelma Fithri**, mahasiswa Sistem Informasi yang tertarik pada te
 
 Saya senang mempelajari teknologi baru dan terus mengembangkan kemampuan melalui pengalaman-pengalaman baru.
 
-- Mahasiswa Sistem Informasi
-- Tertarik pada Web Development
-- Tertarik pada Database Management
-- Tertarik pada UI/UX Design
-- Tertarik untuk meningkatkan kemampuan programming
+- 🎓 Mahasiswa Sistem Informasi
+- 💻 Tertarik pada Web Development
+- 🗄️ Tertarik pada Database Management
+- 🎨 Tertarik pada UI/UX Design
+- 📈 Tertarik untuk meningkatkan kemampuan programming
 
 ---
 
 ## Skills & Tech Stack
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,laravel,react,nodejs,vscode,mysql,postgres,figma" />
+</p>
+
 ### Languages
-- python
-  
+- Python
+
 ### Framework & Tools
 - Laravel
 - React
@@ -48,20 +54,24 @@ Saya senang mempelajari teknologi baru dan terus mengembangkan kemampuan melalui
 
 ## Social Media
 
-- Email: helmaasyahh20@gmail.com
+- 📧 Email: helmaasyahh20@gmail.com
 
 ---
 
 ## Fun Facts
 
-- Ingin menjadi hacker tapi belum jago ngoding
+- Ingin menjadi hacker tapi belum jago ngoding 😅
 
 ---
 
 ## Quote
 
-> suatu yang indah butuh waktu untuk berproses.
+> "Sesuatu yang indah butuh waktu untuk berproses."
 
 ---
 
-### Thanks for visiting my GitHub profile! love u all
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:3B82F6&height=100&section=footer" />
+</p>
+
+<p align="center">✨ Thanks for visiting my GitHub profile! love u all ✨</p>
